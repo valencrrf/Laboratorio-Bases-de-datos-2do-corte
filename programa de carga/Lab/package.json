@@ -1,0 +1,11 @@
+{
+  "name": "online-game-loader",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node carga_datos.js"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.3",
+    "mysql2": "^3.24.5"
+  }
+}
